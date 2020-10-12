@@ -1,0 +1,12 @@
+**COMANDOS VS CODE**
+• alt+z - ajustar linha caso texto ultrapasse
+• ctrl + a, format code with, prettier - ajustar a formatação do código
+
+**CSS**
+• height: 100vh; - Dividir a tela em 100 pedaços e pegar os 100 (ocupar a tela toda)
+• REM e EM - Unidades de pixel para as fontes
+    EM: Faz um cálculo baseado no elemento pai
+    REM: Faz um cálculo baseado sempre no elemento root (hmtl)
+• Display - Aplicar regras dentro do box model 
+    Flex: Alinha um ao lado do outro
+    Grid:
