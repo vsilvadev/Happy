@@ -10,3 +10,4 @@
 • Display - Aplicar regras dentro do box model 
     Flex: Alinha um ao lado do outro
     Grid:
+• Clamp
