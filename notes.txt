@@ -9,5 +9,5 @@
     REM: Faz um cálculo baseado sempre no elemento root (hmtl)
 • Display - Aplicar regras dentro do box model 
     Flex: Alinha um ao lado do outro
-    Grid:
+    Grid: Mexe com os filhos da caixas. Layout de colunas e linhas 
 • Clamp
