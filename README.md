@@ -52,7 +52,7 @@ $ npm install
 $ npm start
 
 <h4>See the application running</h4>
-<p>The server will start at port:3000 - go to http://localhost:5500</p>
+<p>The server will start at port:5500 - go to http://localhost:5500</p>
 
 <h2>🛠 Technologies<a name="tech"></a></h2>
 The following tools were used in the construction of the project: <br><br>
